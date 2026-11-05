@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-crafting-dart-desktop",
+  "capabilityKey": "liberusoftware/module-browser-game-crafting",
+  "presentation": "dart-desktop",
+  "package": "module_browser_game_crafting_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/browser-game/nextjs/crafting.md",
+  "presentationPlan": "projects/browser-game/features/crafting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
